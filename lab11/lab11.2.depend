@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1683732415 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11.2\main.cpp
+	<iostream>
+	"Stud_Angajat.h"
+
+1683732129 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11.2\persoana.cpp
+	"Persoana.h"
+
+1683730873 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11.2\persoana.h
+
+1683732329 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11.2\stud_angajat.cpp
+	"Stud_Angajat.h"
+	"Student.h"
+	"Angajat.h"
+	<iostream>
+
+1683732294 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11.2\stud_angajat.h
+	"Student.h"
+	"Angajat.h"
+
+1683732295 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11.2\student.cpp
+	"Student.h"
+	<iostream>
+
+1683732294 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11.2\student.h
+	<iostream>
+	"Persoana.h"
+
+1683732294 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11.2\angajat.cpp
+	"Angajat.h"
+	<iostream>
+
+1683732294 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11.2\angajat.h
+	<iostream>
+	"Persoana.h"
+
+1683733579 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11\main.cpp
+	<iostream>
+	"Stud_Angajat.h"
+
+1687785472 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11\stud_angajat.h
+	"Student.h"
+	"Angajat.h"
+
+1683732294 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11\student.h
+	<iostream>
+	"Persoana.h"
+
+1683730873 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11\persoana.h
+
+1683732294 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11\angajat.h
+	<iostream>
+	"Persoana.h"
+
+1683732129 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11\persoana.cpp
+	"Persoana.h"
+
+1687785586 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11\stud_angajat.cpp
+	"Stud_Angajat.h"
+	"Student.h"
+	"Angajat.h"
+	<iostream>
+
+1687785562 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11\student.cpp
+	"Student.h"
+	<iostream>
+
+1687785444 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab11\angajat.cpp
+	"Angajat.h"
+	<iostream>
+

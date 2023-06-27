@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1681917938 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab8\main.cpp
+	<iostream>
+	"Angajat.h"
+
+1687783214 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab8\adresa.cpp
+	"Adresa.h"
+	<cstring>
+
+1681914719 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab8\adresa.h
+	<iostream>
+
+1681917701 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab8\angajat.cpp
+	"Angajat.h"
+	<cstring>
+
+1681915864 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab8\angajat.h
+	<iostream>
+	"Adresa.h"
+

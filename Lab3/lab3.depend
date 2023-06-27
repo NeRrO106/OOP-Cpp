@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1678899172 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab3\main.cpp
+	<iostream>
+	"Client.cpp"
+	"Client.h"
+
+1678899179 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab3\client.cpp
+	<iostream>
+	"Client.h"
+	<cstring>
+
+1678897027 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab3\client.h
+

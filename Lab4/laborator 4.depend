@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1679498110 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 4\main.cpp
+	<iostream>
+	"fractie.h"
+
+1679494187 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 4\src\fractie.cpp
+	"fractie.h"
+
+1679494187 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 4\include\fractie.h
+
+1679497747 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 4\fractie.cpp
+	"fractie.h"
+	<iostream>
+
+1679495915 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 4\fractie.h
+

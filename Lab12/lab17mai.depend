@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684335741 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab17mai\main.cpp
+	<assert.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+

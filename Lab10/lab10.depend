@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1687785294 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab10\main.cpp
+	<iostream>
+	"Produs.h"
+	"Frigider.h"
+	"Lada_Frigorifica.h"
+
+1683128313 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab10\produs.cpp
+	"Produs.h"
+	<iostream>
+	<cstring>
+
+1687785120 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab10\produs.h
+	<iostream>
+
+1687784712 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab10\frigider.cpp
+	"Frigider.h"
+	<iostream>
+	<cstring>
+
+1687785136 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab10\frigider.h
+	"Produs.h"
+
+1687784558 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab10\lada_frigorifica.cpp
+	"Lada_Frigorifica.h"
+	"Frigider.h"
+	<iostream>
+	<cstring>
+
+1687785135 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab10\lada_frigorifica.h
+	"Produs.h"
+

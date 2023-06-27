@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1680105177 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 5\main.cpp
+	<iostream>
+	"MyString.h"
+	<cstdlib>
+
+1680105329 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 5\mystring.cpp
+	"MyString.h"
+	<iostream>
+	<cstring>
+	<assert.h>
+	<cstdlib>
+
+1680104609 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 5\mystring.h
+	<iostream>
+
+1680102923 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 5\mystring.cpp
+	"MyString.h"
+	<iostream>
+	<cstring>
+	<assert.h>
+	<cstdlib>
+
+1680105666 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab5\main.cpp
+	<iostream>
+	"MyString.h"
+	<cstdlib>
+
+1680104609 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab5\mystring.h
+	<iostream>
+

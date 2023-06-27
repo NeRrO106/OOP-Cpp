@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680709550 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\laborator 6\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

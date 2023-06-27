@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1682523601 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab 9\main.cpp
+	<iostream>
+	<cstring>
+	"ReprezentantAuto.h"
+
+1682523530 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab 9\companie.cpp
+	"Companie.h"
+	<iostream>
+	<cstring>
+
+1682523663 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab 9\companie.h
+	<iostream>
+
+1682523469 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab 9\companieauto.cpp
+	"CompanieAuto.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1682523663 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab 9\companieauto.h
+	"Companie.h"
+	<string>
+
+1682523406 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab 9\reprezentantauto.cpp
+	"ReprezentantAuto.h"
+	<iostream>
+	<string>
+	<cstring>
+
+1682523645 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab 9\reprezentantauto.h
+	"CompanieAuto.h"
+
+1687783373 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab9\companieauto.cpp
+	"CompanieAuto.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1682523663 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab9\companieauto.h
+	"Companie.h"
+	<string>
+
+1682523663 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab9\companie.h
+	<iostream>
+
+1682523601 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab9\main.cpp
+	<iostream>
+	<cstring>
+	"ReprezentantAuto.h"
+
+1682523867 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab9\reprezentantauto.h
+	"CompanieAuto.h"
+
+1687783343 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab9\companie.cpp
+	"Companie.h"
+	<iostream>
+	<cstring>
+
+1682523866 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab9\reprezentantauto.cpp
+	"ReprezentantAuto.h"
+	<iostream>
+	<string>
+	<cstring>
+

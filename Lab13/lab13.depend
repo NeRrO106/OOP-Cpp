@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1687792760 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\componenta.cpp
+	"Componenta.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1684940918 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\componenta.h
+	<string>
+	<iostream>
+
+1687791775 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\computer.cpp
+	"Computer.h"
+	"Componenta.h"
+	<iostream>
+	<vector>
+
+1687791647 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\computer.h
+	"Produs.h"
+	"Componenta.h"
+	<vector>
+
+1684939963 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\produs.h
+	<iostream>
+	<string>
+
+1687792743 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\os.cpp
+	"OS.h"
+	<iostream>
+	<cstring>
+
+1687790659 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\os.h
+	"Produs.h"
+	<string>
+
+1684943586 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\produs.cpp
+	"Produs.h"
+	<iostream>
+
+1687792696 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\main.cpp
+	<iostream>
+	<vector>
+	"Produs.h"
+	"OS.h"
+	"Componenta.h"
+	"Computer.h"
+	"Laptop.h"
+
+1687792733 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\laptop.cpp
+	"Laptop.h"
+	<vector>
+	<iostream>
+
+1687790754 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab13\laptop.h
+	"Computer.h"
+	"OS.h"
+	<vector>
+

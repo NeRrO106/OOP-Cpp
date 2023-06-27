@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab7\main.cpp
+	<iostream>
+
+1687776814 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab7\garantie.cpp
+	"Garantie.h"
+	<iostream>
+	<cstring>
+
+1687777822 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab7\garantie.h
+	<iostream>
+	<cstring>
+
+1687777801 source:c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab7\produs.cpp
+	"Produs.h"
+	<iostream>
+	<cstring>
+
+1687776944 c:\users\andre\onedrive\facultate\an i\sem ii\pclp\probleme laborator\lab7\produs.h
+	<iostream>
+	<cstring>
+	"Garantie.h"
+
